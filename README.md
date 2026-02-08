@@ -1,5 +1,5 @@
 ## Acerca de mi 👋
-Soy estudiante de tercer año de Ingeniería del Software en la Universidad Loyola de Sevilla
+Soy estudiante de tercer año de Ingeniería del Software
 con formación académica del ámbito tecnológico y un gran interés en el desarrollo de
 software, la inteligencia artificial y el uso de nuevas tecnologías
 <!--
